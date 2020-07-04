@@ -6,7 +6,7 @@ This is a Web App I created and will soon to upload in a free web hosting that g
  Framework: Laravel
  Language: PHP, Javascript
  Front end: Vue JS
- Database: MongoDB/MySQL
+ Database: MongoDB/MySQL 
 
 ## About Laravel
 
